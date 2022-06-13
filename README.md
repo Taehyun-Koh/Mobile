@@ -1,3 +1,3 @@
 # 기억력테스트
 
-<img width="40%" src="https://user-images.githubusercontent.com/94899919/173287615-976216c6-099e-4dbd-ae7d-f2b1d69e19ed.gif"/>
+<img width="40%" src="https://user-images.githubusercontent.com/94899919/173288368-fcdfdf3a-ae44-4d10-90de-2afcbd3627f4.gif"/>
